@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Introduction
 ============
 A java version of mysql broker for cloudfoundry.  It is ported from cf-mysql-broker.
@@ -32,3 +33,7 @@ Routes
 |/v2/service_instances/:id/service_bindings/:id|PUT|create user and grant privilege for the database associated with service.|
 |/v2/service_instances/:id/service_bindings/:id|DELETE|delete the user created previously for this binding.|
 
+=======
+# route-service-broker-simple
+Simple route service broker based on cf-mysql-java-broker.
+>>>>>>> 02b2ca5b78041e232d6b5ba493a933e482eed7d7
